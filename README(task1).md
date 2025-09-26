@@ -36,7 +36,7 @@ task1.java   -> Main calculator program
 
 Clone the repository:
 
-git clone https://github.com/your-username/java-cli-calculator.git
+git clone https://github.com/Amanchahar077/ElevateLabsTasks/blob/main/task1.java
 
 
 Open in IntelliJ IDEA / VS Code (or any Java IDE).
