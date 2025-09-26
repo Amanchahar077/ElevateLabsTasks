@@ -38,7 +38,7 @@ task2.java       -> Main program with CRUD logic
 
 Clone the repository:
 
-git clone https://github.com/your-username/student-crud-java.git
+git clone https://github.com/Amanchahar077/ElevateLabsTasks/blob/main/task2.java
 
 
 Open in IntelliJ IDEA / VS Code (or any Java IDE).
